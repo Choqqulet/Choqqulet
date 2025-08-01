@@ -1,16 +1,29 @@
-## Hi there 👋
+<h2 align="center">Hi there, I'm Chloe ☕ | INTP | Just learning 🔮</h2>
 
-<!--
-**Choqqulet/Choqqulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2F2F2&center=true&vCenter=true&width=435&lines=She+codes+with+coffee...;Brews+Rust+and+Python+like+magic;Dreaming+in+AI+and+Web3+🌌" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Playground
+
+![My Skills](https://skillicons.dev/icons?i=python,rust,js,react,git,java,firebase,c#,mongodb,mysql,linux,figma)
+
+[![3D Profile](https://github.com/Choqqulet/Choqqulet/raw/main/assets/3d.gif)](https://github.com/Choqqulet)
+
+---
+
+### 📊 Current Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Choqqulet&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Choqqulet&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💫 Vibes
+
+> *“I build, therefore I vanish.”*
