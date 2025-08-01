@@ -5,20 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM2NHR3MGZ2N2M1bzc3YzRuOWdyY3k5Z3o1aXRyazBxaGdnaWthbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" width="500" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGM2NHR3MGZ2N2M1bzc3YzRuOWdyY3k5Z3o1aXRyazBxaGdnaWthbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/273wltvPPLkC04QkA2/giphy.gif" width="1000" />
 </p>
 
 <p align="center">
   <em>Coffee. Silence. Logic. Repeat.</em>
 </p>
-
----
-
-### 🛠️ Tech Playground
-
-![My Skills](https://skillicons.dev/icons?i=python,rust,js,react,git,java,firebase,c#,mongodb,mysql,linux,figma)
-
-[![3D Profile](https://github.com/Choqqulet/Choqqulet/raw/main/assets/3d.gif)](https://github.com/Choqqulet)
 
 ---
 
