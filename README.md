@@ -1,4 +1,4 @@
-<h2 align="center">Bonjour, I'm Chloe ☕ | INTP-A | 🐾 I feed pigglet </h2>
+<h2 align="center">Bonjour, I'm Chloe ☕ | INTP-A </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2F2F2&center=true&vCenter=true&width=435&lines=She+codes+with+coffee...;Brews+Rust+and+Python+like+magic;Dreaming+in+AI+and+Web3+🌌" />
