@@ -8,6 +8,10 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW4wbXk1ajkyajlianl6MjdsbXJsNjBzMW5nOHF6eWZrcnpzOXl2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/110YfuwtzXGaaI/giphy.gif" width="360" />
 </p>
 
+<p align="center">
+  <em>Coffee. Silence. Logic. Repeat.</em>
+</p>
+
 ---
 
 ### 🛠️ Tech Playground
@@ -31,7 +35,3 @@
 ### 💫 Vibes
 
 > *“I build, therefore I vanish.”*
-
-<p align="center">
-  <em>Coffee. Silence. Logic. Repeat.</em>
-</p>
