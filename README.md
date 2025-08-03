@@ -1,4 +1,4 @@
-# Bonjour, I'm Chloe ☕ | INTP-A 
+# Bonjour, I'm Chloe ☕ | INTP-A | 5w6
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2F2F2&center=true&vCenter=true&width=435&lines=She+codes+with+coffee...;Brews+systems,+not+potions;Dreaming+in+AI+and+Web3+🌌;Writes+bugs+just+to+fix+them" />
