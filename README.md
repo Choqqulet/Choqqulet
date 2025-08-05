@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>Coffee. Silence. Logic. Repeat.</em>
+  <em>Learning ...</em>
 </p>
 
 ## GitHub Stats
